@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ffox1055
-- 👀 I’m interested in web programming
+- 👋 Hi, I’m Iwa
+- 👀 I’m interested in web programming 
 - 🌱 I’m currently learning Java Script
 
 <!---
