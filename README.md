@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iwa
 - 👀 I’m interested in web programming 
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Vue and NuxtJS
 
 <!---
 ffox1055/ffox1055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
